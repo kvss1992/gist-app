@@ -21,7 +21,7 @@ function SearchForm() {
       <input
         className="form-control" 
         type="text"
-        placeholder="Search for a user, eg. jsphkhan."
+        placeholder="Search for a user, eg. markerikson."
         onChange={e => setUserName(e.target.value)}
       />
       {/* <button>Magic!</button> */}
